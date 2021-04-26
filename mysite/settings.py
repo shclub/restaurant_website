@@ -94,10 +94,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'linner_db',
-        'HOST': 'localhost',#'192.168.56.1',#'192.168.0.29',
-        'PORT':'3307',
-        'USER':'root',
-        'PASSWORD':'1234',
+        'HOST': 'shclub.synology.me',#'192.168.56.1',#'192.168.0.29',
+        'PORT':'33306',
+        'USER':'shclub',
+        'PASSWORD':'9302390',
     }
 }
 
